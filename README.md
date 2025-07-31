@@ -1,10 +1,16 @@
 # Desenvolvedor_Java
 
+<img width="166" height="304" alt="download" src="https://github.com/user-attachments/assets/69c85d76-1314-488d-b8fe-37c2af025f46" />
+
 Tudo relacionado ao curso de desenvolvedor java do Senai
 
 Aula da História do Java 
 
+<img width="256" height="197" alt="download" src="https://github.com/user-attachments/assets/f05dc29b-22e8-4efd-875b-2c8c027a8903" />
+
 A linguagem de programação Java foi criada no início dos anos 1990 por uma equipe de engenheiros da empresa Sun Microsystems, liderada por James Gosling, que é considerado o “pai do Java”. O projeto começou com o nome de "Green Project" e tinha como objetivo original desenvolver tecnologia para dispositivos eletrônicos domésticos, como televisores interativos. A equipe buscava uma linguagem que fosse segura, portátil e que pudesse funcionar em diferentes plataformas, sem necessidade de reescrever o código para cada sistema.
+
+![download](https://github.com/user-attachments/assets/313fba8c-0285-4ddd-b073-21e6492c4bf3)
 
 Inicialmente, a linguagem se chamava Oak (carvalho, em inglês), mas esse nome já estava registrado. Em 1995, foi lançado oficialmente como Java, nome inspirado no café da ilha de Java, na Indonésia. A grande inovação do Java foi a introdução da máquina virtual Java, a JVM (Java Virtual Machine), que permitia que os programas escritos em Java fossem executados em qualquer sistema operacional que tivesse a JVM instalada. Esse conceito ficou conhecido pelo slogan “Write Once, Run Anywhere” (escreva uma vez, execute em qualquer lugar), e se tornou um marco na portabilidade de software.
 
@@ -48,4 +54,53 @@ Método = Função ou procedimento dentro de uma classe que define ações.
 Compilação = Processo de transformar o código-fonte (texto) em bytecode que a JVM entende.
 
 Orientação a Objetos = Paradigma de programação baseado em classes, objetos, herança, encapsulamento e polimorfismo.
+
+Como fazer a instalação do JAVA 
+
+<img width="166" height="304" alt="download" src="https://github.com/user-attachments/assets/58f28f33-501d-48fe-a384-f04e93fa2e5f" />
+
+Abra o terminal ou prompt de comando e digite:
+
+java -version
+
+Se aparecer a versão instalada, você já tem Java. Se der erro ou não reconhecer o comando, continue com a instalação.
+
+Vá para o site da Oracle:
+
+👉 https://www.oracle.com/java/technologies/javase-downloads.html
+
+Escolha a versão mais recente do Java SE Development Kit (JDK) compatível com seu sistema operacional:
+
+Windows: .exe (instalador)
+
+macOS: .dmg
+
+Linux: .rpm ou .deb (ou use o terminal)
+
+Siga as instruções do instalador:
+
+No Windows, clique duas vezes no .exe e avance com "Next".
+
+No macOS, abra o .dmg e siga as etapas.
+
+No Linux, use o comando correspondente (exemplo Ubuntu):
+
+bash
+
+sudo apt update
+sudo apt install openjdk-17-jdk
+
+Vá em Painel de Controle > Sistema > Configurações avançadas do sistema.
+
+Clique em Variáveis de Ambiente.
+
+Em “Variáveis do sistema”, clique em Novo e adicione:
+
+Nome da variável: JAVA_HOME
+
+Valor da variável: Caminho onde o Java foi instalado (ex: C:\Program Files\Java\jdk-17)
+
+Edite a variável Path e adicione:
+%JAVA_HOME%\bin
+
 
