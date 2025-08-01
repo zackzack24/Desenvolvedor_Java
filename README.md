@@ -1,4 +1,4 @@
-# Desenvolvedor_Java
+# Desenvolvedor_Java 
 
 <img width="166" height="304" alt="download" src="https://github.com/user-attachments/assets/69c85d76-1314-488d-b8fe-37c2af025f46" />
 
@@ -102,5 +102,55 @@ Valor da variável: Caminho onde o Java foi instalado (ex: C:\Program Files\Java
 
 Edite a variável Path e adicione:
 %JAVA_HOME%\bin
+
+Configurando o VS CODE para usar o Java 
+
+<img width="300" height="168" alt="download" src="https://github.com/user-attachments/assets/0938fe2e-5094-42f2-969e-9da0185673cb" />
+
+Criar um perfil e utilizar a pasta usada para treinar lógica de programação
+
+Extensões ESSENCIAIS para usar o JAVA:
+
+Extension Pack For Java: Para conseguir usar o Java, instala diversos programas no VS CODE para usarmos o Java
+
+<img width="225" height="225" alt="download" src="https://github.com/user-attachments/assets/266dd76c-91b7-4b5d-b749-e3c7cede424e" />
+
+Spring boot Extension Deck: Instalar a versão da VMware.
+
+![download](https://github.com/user-attachments/assets/a03e01e3-8c12-4d01-914b-a190b8d3d14c)
+
+code generator for java: Da SOHIBE
+
+<img width="256" height="256" alt="Microsoft VisualStudio Services Icons" src="https://github.com/user-attachments/assets/ed3b6d0b-427b-466e-a71c-4d21487f939e" />
+
+Lombok Annotations Support for VS Code: da Microsoft
+
+<img width="128" height="128" alt="Microsoft VisualStudio Services Icons" src="https://github.com/user-attachments/assets/27841cbf-df06-48e2-91dc-88060d176f77" />
+
+Extensões NÃO ESSENCIAIS para usar o JAVA utilizadas para ajudar a usar o VSCODE:
+
+Error Lens: de Alexander:
+
+<img width="512" height="512" alt="Microsoft VisualStudio Services Icons" src="https://github.com/user-attachments/assets/10da629e-fd25-43a3-aea1-05efdfb81262" />
+
+Comment Anchors: Palavras Chave nos comentários, da Starlane Studios
+
+<img width="512" height="512" alt="Microsoft VisualStudio Services Icons" src="https://github.com/user-attachments/assets/06992a84-bc86-4ce5-af23-937854321c64" />
+
+Polacode: Tirar Prints do Código
+
+<img width="264" height="264" alt="Microsoft VisualStudio Services Icons" src="https://github.com/user-attachments/assets/df711b62-81f9-4951-9a8a-5407a547f578" />
+
+SQLite Viewer: de Florian Klampfer
+
+<img width="128" height="128" alt="Microsoft VisualStudio Services Icons" src="https://github.com/user-attachments/assets/45555977-db08-4c61-9989-a197052a4acd" />
+
+vscode-icons: do VSCode Icons Team
+
+<img width="128" height="128" alt="Microsoft VisualStudio Services Icons" src="https://github.com/user-attachments/assets/e4a3c095-88d3-4bac-adf4-0991bed2ea80" />
+
+VSCode Icons: de 0dinD
+
+<img width="128" height="128" alt="Microsoft VisualStudio Services Icons" src="https://github.com/user-attachments/assets/0e8f93fd-8791-41be-82b0-05bae85f3d5e" />
 
 
